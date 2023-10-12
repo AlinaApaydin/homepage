@@ -40,7 +40,7 @@ padding: 20px;
 
 .dark {
     background-color: rgb(55, 55, 85);
-    color: bisque;
+    color: rgb(204, 195, 184);
 }
 .list {
     
@@ -58,13 +58,13 @@ padding: 20px;
 }
     
 .header {
-    color: rgb(99, 70, 70);
+    color: rgb(189, 153, 153);
     font-style:inherit;
     text-align:center;
 }
 
 .tableCell:hover {
-    background-color: #eee1e1;;
+    background-color: #d8b9b9;;
 }
 
 .tableHeader {
